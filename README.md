@@ -1,16 +1,46 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm Rupsha Singha Ray 👋</h1>
 
-<!--
-**rayndrag0n/rayndrag0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.linkedin.com/in/rupshasingharay/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin&style=for-the-badge" alt="LinkedIn">
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">  
+  <a href="mailto:rupshasr03@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&style=for-the-badge" alt="Email">
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  🚀 Welcome to my GitHub profile! I'm passionate about coding, open source, and technology.
+</p>
+
+- 🔭 I’m currently working on exciting open-source projects.
+- 🌱 I’m constantly learning and exploring new technologies.
+- 👯 I’m looking to collaborate on interesting and innovative projects.
+- 💬 Ask me about anything tech-related, I'm here to help!
+
+### 🛠️ Technologies & Tools
+
+Here are some of the technologies and tools I frequently work with:
+
+- **Programming Languages:** Python, JavaScript, Java, C++, C
+- **Web Development:** HTML, CSS, React, Node.js
+- **Databases:** MongoDB
+- **Version Control:** Git
+- **IDEs:** Visual Studio Code, PyCharm,
+- **Operating Systems:** Windows, Linux
+
+### 📚 My Latest Blog Posts
+
+- [How to Get Started with Open Source](https://yourblog.com/open-source-getting-started)
+- [10 Tips for Writing Clean and Maintainable Code](https://yourblog.com/clean-maintainable-code)
+
+### 🌐 Connect with Me
+
+Let's connect and learn from each other! You can find me on [LinkedIn](https://www.linkedin.com/in/rupshasingharay/)
+
+Feel free to reach out via email at rupshasr03@gmail.com if you have any questions or just want to chat!
+
+Thanks for visiting my profile. Have a great day! 😄
