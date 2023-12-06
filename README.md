@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Rupsha Singha Ray 👋</h1>
+<h1 align="center">Hello there!! I'm Ray 👋</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rupshasingharay/">
@@ -32,10 +32,6 @@ Here are some of the technologies and tools I frequently work with:
 - **IDEs:** Visual Studio Code, PyCharm,
 - **Operating Systems:** Windows, Linux
 
-### 📚 My Latest Blog Posts
-
-- [How to Get Started with Open Source](https://yourblog.com/open-source-getting-started)
-- [10 Tips for Writing Clean and Maintainable Code](https://yourblog.com/clean-maintainable-code)
 
 ### 🌐 Connect with Me
 
