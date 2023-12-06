@@ -16,9 +16,9 @@
   🚀 Welcome to my GitHub profile! I'm passionate about coding, open source, and technology.
 </p>
 
-- 🔭 I’m currently working on exciting open-source projects.
+- 🔭 I’m currently working on an exciting open-source project.
 - 🌱 I’m constantly learning and exploring new technologies.
-- 👯 I’m looking to collaborate on interesting and innovative projects.
+- 👯 I’m looking to collaborate and contribute to interesting and meaningful projects.
 - 💬 Ask me about anything tech-related, I'm here to help!
 
 ### 🛠️ Technologies & Tools
