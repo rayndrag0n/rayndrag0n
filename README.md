@@ -16,20 +16,15 @@
   🚀 Welcome to my GitHub profile! I'm passionate about coding, open source, and technology.
 </p>
 
-- 🔭 I’m currently working on an exciting open-source project.
-- 🌱 I’m constantly learning and exploring new technologies.
-- 👯 I’m looking to collaborate and contribute to interesting and meaningful projects.
-- 💬 Ask me about anything tech-related, I'm here to help!
-
 ### 🛠️ Technologies & Tools
 
 Here are some of the technologies and tools I frequently work with:
 
 - **Programming Languages:** Python, JavaScript, Java, C++, C
-- **Web Development:** HTML, CSS, React, Node.js
+- **Web Development:** HTML, CSS, Flutter
 - **Databases:** MongoDB
 - **Version Control:** Git
-- **IDEs:** Visual Studio Code, PyCharm,
+- **IDEs:** Visual Studio Code, PyCharm, Android Studio
 - **Operating Systems:** Windows, Linux
 
 
